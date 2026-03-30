@@ -68,13 +68,13 @@ El sistema sigue una arquitectura cliente-servidor:
 
 ![Nuevo Pedido](Img/Screenshot%20carrito.png) Interfaz de carrito de compras con formulario de cliente y selector de artículos.
 
-![Panel Principal](Img/Screenshot%20Dashboard.png) Dashboard principal con métricas generales y gráfico comparativo de ventas por institución.
+![Panel Principal](Img/Screenshot%20Dashboard.png) Visualización centralizada de indicadores clave (KPIs) y analíticas de ventas segmentadas por centro educativo.
 
-![Gestión de Pedidos](Img/Screenshot%20gestio%20de%20pedidos.png) Módulo de administración de pedidos con filtros de búsqueda y tabla de estados.
+![Gestión de Pedidos](Img/Screenshot%20gestio%20de%20pedidos.png) Centro de gestión con filtrado avanzado por estado, fecha y estudiante, diseñado para optimizar el flujo de trabajo operativo.
 
 ![Detalle de Pedido](Img/Screenshot%20Info-pedido.png) Vista modal con el desglose detallado de artículos, información del estudiante y totales.
 
-![Catálogo de Prendas](Img/Screenshot%20info-prendas.png) Visualización de uniformes disponibles y precios configurados por colegio.
+![Catálogo de Prendas](Img/Screenshot%20info-prendas.png) Catálogo maestro parametrizado que permite la consulta rápida de existencias y costos específicos según la institución.
 
 ---
 
