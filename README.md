@@ -66,7 +66,7 @@ El sistema sigue una arquitectura cliente-servidor:
 
 ## 📸 Capturas del sistema
 
-![Panel principal](images/dashboard.png)
+![Panel principal](img/Screenshot Dashboard)
 *Dashboard principal con resumen de pedidos y clientes.*
 
 ![Gestión de pedidos](images/orders.png)
